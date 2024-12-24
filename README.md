@@ -1,4 +1,4 @@
-# 🚀 Otimiza Estoque - Transforme Seu Estoque com IA de Ponta
+## 🚀 Otimiza Estoque - Transforme Seu Estoque com IA de Ponta
 
 <p align="center">
   <a href="https://www.otimizaestoque.com.br" target="_blank">
