@@ -111,7 +111,7 @@ Para grandes operações que exigem o máximo em performance e funcionalidades p
 Entre em contato com nossa equipe para tirar dúvidas, solicitar um orçamento personalizado ou agendar uma demonstração.
 
 - **Email:** falecom@otimizaestoque.com.br
-- **Telefone:** +55 (44) 99999-9999
+- **Telefone:** +55 (11) 91335-3137 - Somente whatasapp
 - **Chat Online:** [www.otimizaestoque.com.br](https://www.otimizaestoque.com.br)
 
 <p align="center">
