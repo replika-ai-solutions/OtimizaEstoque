@@ -1,120 +1,114 @@
-## 🚀 Otimiza Estoque - Transforme Seu Estoque com IA de Ponta
+## 🚀 Otimiza Estoque - A Inteligência Artificial que Transforma Seu Estoque em Lucro
 
 <p align="center">
-    Um produto inovador desenvolvido pela <a href="https://replika.ai" target="_blank">Replika IA Solutions</a> em Maringá, Paraná.
+    Desenvolvido pela <a href="https://replika.ai" target="_blank">Replika IA Solutions</a>, o Otimiza Estoque é a solução definitiva para empresas que buscam excelência em gestão de estoque.
 </p>
 
 ---
 
-![chrome_EAfxpGdy5F](https://github.com/user-attachments/assets/f84fd9aa-c6e7-4ef0-a5be-d84c24ede2f3)
-![chrome_SqdcoMVySm](https://github.com/user-attachments/assets/e55e6a8f-6545-46db-a5cf-dc9803bdba18)
-![chrome_u1Um62q6qP](https://github.com/user-attachments/assets/3ff26a36-8756-4951-afa8-fb102debac6f)
-![chrome_YAUGHDjfFB](https://github.com/user-attachments/assets/9369c740-d8ef-4a70-a78b-4014a0a77177)
-![chrome_Q8NFw3uPr7](https://github.com/user-attachments/assets/ada8ac36-dfba-4e7c-8ac2-8dba639a7f76)
-![chrome_l2NeZu6ALc](https://github.com/user-attachments/assets/26f71b04-4826-4e81-b9b3-061e97373ddc)
-![chrome_7ARIsI1pyb](https://github.com/user-attachments/assets/673c62da-1dce-4e63-b0bf-455f0ed779e7)
-![chrome_ngBLFdMmNX](https://github.com/user-attachments/assets/925a0780-5169-4724-8373-86e5ac2e23bd)
-![chrome_dEblMFil0k](https://github.com/user-attachments/assets/908cf6cb-d83e-497b-9f59-eab359e3a000)
-![chrome_yyzhA0uLw5](https://github.com/user-attachments/assets/efcd5232-9466-4b3d-ada0-5915c9596e57)
-![chrome_0golEkLNtO](https://github.com/user-attachments/assets/606ad9e7-a1c0-46a0-a95a-66c8a48b1684)
-![chrome_XkSW2vBEj1](https://github.com/user-attachments/assets/e3b300df-c8d7-48c7-9a09-3e28bc5b12f5)
-![chrome_RCRQh4Zq4U](https://github.com/user-attachments/assets/fa8068e2-8078-4dca-a587-a06e9b82819d)
-![chrome_AD4VqkWvcW](https://github.com/user-attachments/assets/2a8fbf45-88c1-477c-b70a-a732f29b66a3)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f84fd9aa-c6e7-4ef0-a5be-d84c24ede2f3" alt="Comparativo: Auditoria Tradicional vs. OtimizaEstoque" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/e55e6a8f-6545-46db-a5cf-dc9803bdba18" alt="Roadmap de Implementação" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/3ff26a36-8756-4951-afa8-fb102debac6f" alt="Planos e Preços" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/9369c740-d8ef-4a70-a78b-4014a0a77177" alt="Análise de Investimento" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/ada8ac36-dfba-4e7c-8ac2-8dba639a7f76" alt="Impacto Financeiro Comprovado" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/26f71b04-4826-4e81-b9b3-061e97373ddc" alt="Resultados Comprovados" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/673c62da-1dce-4e63-b0bf-455f0ed779e7" alt="Plataforma Enterprise Completa" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/925a0780-5169-4724-8373-86e5ac2e23bd" alt="Sistema Avançado de Relatórios" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/908cf6cb-d83e-497b-9f59-eab359e3a000" alt="Tecnologia de Ponta" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/efcd5232-9466-4b3d-ada0-5915c9596e57" alt="Tecnologia de Ponta em IA" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/606ad9e7-a1c0-46a0-a95a-66c8a48b1684" alt="Recursos Inovadores" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/e3b300df-c8d7-48c7-9a09-3e28bc5b12f5" alt="Como Funciona" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/fa8068e2-8078-4dca-a587-a06e9b82819d" alt="IA Avançada" width="100%"/>
+     <img src="https://github.com/user-attachments/assets/2a8fbf45-88c1-477c-b70a-a732f29b66a3" alt="Otimiza Estoque" width="100%"/>
+</div>
 
 
 ## 🎯 O que é o Otimiza Estoque?
 
-O **Otimiza Estoque** é uma plataforma de gestão de estoque inteligente, impulsionada por inteligência artificial de última geração. Nossa solução é projetada para empresas de todos os portes que desejam otimizar suas operações, reduzir custos e aumentar a eficiência. Com Otimiza Estoque, você transforma seu estoque em uma vantagem competitiva.
+O **Otimiza Estoque** é uma plataforma de gestão de estoque inteligente, impulsionada por inteligência artificial de última geração. Desenvolvida para empresas de todos os portes, nossa solução transforma seu estoque em uma vantagem competitiva, otimizando processos, reduzindo custos e maximizando a eficiência operacional.
 
+### 💡 Por que o Otimiza Estoque é a Escolha Inteligente?
 
-### 💡 Por que escolher o Otimiza Estoque?
-
-- **Precisão Inigualável:** Utilize a IA para previsões de demanda com até 99.8% de precisão, reduzindo erros e otimizando seus níveis de estoque.
+- **Precisão Inigualável:** Previsões de demanda com até 99.8% de acurácia, minimizando erros e otimizando o planejamento de estoque.
 - **Redução de Custos:** Diminua o capital imobilizado em até 30%, reduza stockouts em 45% e minimize seus custos operacionais em 25%.
 - **Otimização de Tempo:** Automatize processos e economize até 75% do tempo em contagens e 90% do tempo em reposição.
-- **Visão Estratégica:** Tenha acesso a dashboards personalizados, relatórios detalhados e alertas inteligentes para tomar decisões mais assertivas.
-- **Plataforma Completa:** Desfrute de uma solução cloud-native, escalável, segura e com suporte especializado.
+- **Visão Estratégica:** Dashboards personalizados, relatórios detalhados e alertas inteligentes para tomadas de decisão assertivas.
+- **Plataforma Completa:** Solução cloud-native, escalável, segura e com suporte especializado 24/7.
 
-### ⚙️ Como o Otimiza Estoque Funciona?
+### ⚙️ Como o Otimiza Estoque Revoluciona Sua Gestão de Estoque?
 
-1. **Integração de Dados:** 📦 Conectamos perfeitamente com seus sistemas existentes e importamos seu histórico de estoque.
-2. **Análise Inteligente:** 🧠 Nossa IA processa os dados, identifica padrões de consumo e prevê a demanda futura.
-3. **Otimização Contínua:** ⚙️ O sistema ajusta automaticamente os níveis de estoque, sugere ações e otimiza suas operações.
-4. **Resultados Mensuráveis:** 📈 Acompanhe a redução de custos, otimização de processos e aumento da eficiência com dados em tempo real.
-
+1. **Integração de Dados:** 📦 Conectamos perfeitamente com seus sistemas existentes, importando todo o histórico de seu estoque.
+2. **Análise Inteligente:** 🧠 Nossa IA processa dados, identifica padrões de consumo e prevê a demanda futura com precisão.
+3. **Otimização Contínua:** ⚙️ O sistema ajusta automaticamente os níveis de estoque, sugere ações e otimiza suas operações em tempo real.
+4. **Resultados Mensuráveis:** 📈 Acompanhe a redução de custos, otimização de processos e aumento da eficiência com dados em tempo real e relatórios personalizados.
 
 ## 📊 Principais Funcionalidades
 
 ### ✨ IA para Otimização de Estoque
 
-A inteligência artificial do Otimiza Estoque analisa seus dados históricos, padrões de consumo e tendências do mercado para otimizar seus níveis de estoque, reduzir perdas e maximizar seus lucros.
+Nossa inteligência artificial analisa dados históricos, padrões de consumo e tendências do mercado para otimizar seus níveis de estoque, reduzindo perdas e maximizando lucros.
 
 ### 📈 Análise Preditiva e Relatórios Detalhados
 
-Obtenha insights valiosos sobre seu estoque com relatórios personalizados, dashboards interativos e alertas proativos. Planeje seus próximos passos com precisão e mantenha sua equipe sempre informada.
+Obtenha insights valiosos sobre seu estoque com relatórios personalizados, dashboards interativos e alertas proativos. Planeje seus próximos passos com precisão e mantenha sua equipe sempre informada e engajada.
 
 ### 🔗 Integração Universal e Escalabilidade
 
-Integre o Otimiza Estoque com seu ERP ou outros sistemas facilmente através da nossa API RESTful. Nossa plataforma cloud-native garante escalabilidade e alta disponibilidade para seu negócio.
+Integre o Otimiza Estoque com seu ERP ou outros sistemas através da nossa API RESTful. Nossa plataforma cloud-native garante escalabilidade e alta disponibilidade para seu negócio em constante crescimento.
 
 ### 🛡️ Segurança e Suporte
 
-Proteja seus dados com a mais alta segurança e conte com um suporte especializado, 24 horas por dia, 7 dias por semana. Sua tranquilidade é nossa prioridade.
-
+Proteja seus dados com a mais alta segurança e conte com suporte especializado, 24 horas por dia, 7 dias por semana. Sua tranquilidade é nossa prioridade.
 
 ## 📈 Resultados Comprovados
 
 ### 💰 Redução de Custos
-- 30% Capital Imobilizado
-- 45% Stockouts
-- 25% Custos Operacionais
-
+- 30% de redução no capital imobilizado
+- 45% de redução em stockouts
+- 25% de redução nos custos operacionais
 
 ### ⏱️ Otimização de Tempo
-- 75% Contagens
-- 90% Reposição
-- 60% Processos Manuais
-
+- 75% menos tempo em contagens de estoque
+- 90% de redução no tempo de reposição
+- 60% menos tempo em processos manuais
 
 ### ✅ Precisão Aumentada
-- 99.9% Inventário
-- 85% Erros Humanos
-- 100% Rastreabilidade
-
+- 99.9% de precisão no inventário
+- 85% menos erros humanos
+- 100% rastreabilidade completa
 
 ### 🚀 Impacto Financeiro Comprovado
-- 45% Redução de Custos
-- 99.8% Acurácia de Previsão
-- 75% Redução Operacional
-- 99.9% Disponibilidade
-
+- 45% de redução nos custos gerais
+- 99.8% de acurácia nas previsões
+- 75% de redução no tempo operacional
+- 99.9% de disponibilidade do sistema
 
 ## 🏢 Nossos Planos
 
 ### 🥇 Starter
 
-Ideal para pequenas empresas que estão começando a otimizar seu estoque.
+Ideal para pequenas empresas que estão dando os primeiros passos na otimização do estoque.
 - Preço: R$ 997/mês
-- SKUs: Até 1000
+- SKUs: Até 1.000
 
 ### 🥈 Professional
 
-Perfeito para empresas em crescimento que precisam de mais recursos e personalização.
-- Preço: R$ 2497/mês
-- SKUs: Até 5000
+Perfeito para empresas em crescimento que buscam mais recursos e personalização para impulsionar suas operações.
+- Preço: R$ 2.497/mês
+- SKUs: Até 5.000
 
 ### 💎 Enterprise
 
-Para grandes operações que exigem o máximo de performance e funcionalidades.
+Para grandes operações que exigem o máximo em performance e funcionalidades para manter a liderança no mercado.
 - Preço: Personalizado
 - SKUs: Ilimitados
 
-
-## 🚀 Comece Agora!
+## 🚀 Não Deixe Seu Estoque Ser Um Problema!
 
 ### 📞 Contato
 
-Entre em contato com nossa equipe para tirar dúvidas ou agendar uma demonstração personalizada.
+Entre em contato com nossa equipe para tirar dúvidas, solicitar um orçamento personalizado ou agendar uma demonstração.
 
 - **Email:** falecom@otimizaestoque.com.br
 - **Telefone:** +55 (44) 99999-9999
@@ -133,17 +127,16 @@ Entre em contato com nossa equipe para tirar dúvidas ou agendar uma demonstraç
   </a>
 </p>
 
+## 🛠️ Tecnologias Utilizadas
 
-## 🛠️ Tecnologias
-
-- React Frontend
-- Node.js Backend
-- Python IA
-- PostgreSQL Banco de Dados
-- TensorFlow Machine Learning
-- AWS Infraestrutura
+- **Frontend:** React
+- **Backend:** Node.js
+- **IA:** Python com TensorFlow
+- **Banco de Dados:** PostgreSQL
+- **Infraestrutura:** AWS
 
 ## 💼 Desenvolvido por
+
 <p align="center">
     <a href="https://replika.ai" target="_blank">
        Replika IA Solutions
