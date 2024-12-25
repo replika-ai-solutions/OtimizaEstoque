@@ -1,5 +1,7 @@
 ## 🚀 Otimiza Estoque - A Inteligência Artificial que Transforma Seu Estoque em Lucro
 
+![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/c078a0e0-4e50-4120-85fe-fab575563f4c)
+
 <p align="center">
     Desenvolvido pela <a href="https://replika.ai" target="_blank">Replika IA Solutions</a>, o Otimiza Estoque é a solução definitiva para empresas que buscam excelência em gestão de estoque.
 </p>
